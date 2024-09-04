@@ -403,7 +403,7 @@ nav #nav-img{
 .page1-h1{
     position: absolute;
     left: 1.6%;
-    bottom:0;
+    bottom:-20px;
     height: -webkit-fit-content;
     height: -moz-fit-content;
     height: fit-content;
@@ -440,7 +440,7 @@ nav #nav-img{
 #wrapp{
     position: absolute;
     left: 1.7%;
-    bottom: 200px;
+    bottom: 170px;
     height: 6vw;
     width: 44vw;
     /* overflow: hidden; */
@@ -1319,7 +1319,6 @@ z-index: 11;
 }
 .brand-contact{
     position: relative;
-    left: -12rem;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
