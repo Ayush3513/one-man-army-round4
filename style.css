@@ -1774,7 +1774,7 @@ z-index: 11;
 
     #wrapp{
         left: 1.7%;
-        bottom: 60px;
+        bottom: 35px;
         height: 12vw;
         width: -webkit-fit-content;
         width: -moz-fit-content;
@@ -2135,7 +2135,7 @@ z-index: 11;
 }
 .brand-contact{
     position: relative;
-    left: 1vw;
+    margin-left: -5vw;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
