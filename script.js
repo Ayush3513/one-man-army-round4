@@ -441,7 +441,7 @@ function clutter(){
                 trigger:".page6",
                 scroller:".main",
                 start:"top 0%",
-                end:"top -150%",
+                end:"top -200%",
                 scrub:1,
                 pin:true,
                 ease:Expo.easeInOut,
