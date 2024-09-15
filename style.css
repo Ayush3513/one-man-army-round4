@@ -440,7 +440,7 @@ nav #nav-img{
 #wrapp{
     position: absolute;
     left: 1.7%;
-    bottom: 170px;
+    bottom: 120px;
     height: 6vw;
     width: 44vw;
     /* overflow: hidden; */
@@ -561,7 +561,7 @@ nav #nav-img{
 #slide .item .image img{
     border-radius: 15px;
 
-    width: 45%;
+    width: 45vw;
     /* transition: .5s; */
     -o-object-fit: cover;
        object-fit: cover;
@@ -1530,7 +1530,7 @@ z-index: 11;
     /* text-transform: uppercase; */
 }
 .lets-talk p span{
-    color: #0066B1;
+    color: #c00902;
     font-family: c;
     font-weight: 900;
     /* text-transform: uppercase; */
