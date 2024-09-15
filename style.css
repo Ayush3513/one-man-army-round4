@@ -1090,8 +1090,8 @@ z-index: 11;
     position: relative;
 }
 .slide{
-    width: 800px;
-    height: 500px;
+    width: 42.5vw;
+    height: 60vh;
     position: relative;
     z-index: 4;
     border-radius: 20px;
